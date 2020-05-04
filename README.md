@@ -1,2 +1,2 @@
 # mycode1
-java-pacman &amp; others
+"Pacman" student project written in Java
