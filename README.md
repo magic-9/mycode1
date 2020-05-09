@@ -1,5 +1,5 @@
-# mycode1
-"Pacman" student project written in Java
+# PacMan
+"PacMan" student project written in Java
 
 Repository contains:
 - Java files with executable code
